@@ -25,7 +25,7 @@ SECRET_KEY = 'ee6hk8ygjl)&-edc4^*o41yvalhh9-h@6(7-j*)&4%6!smmael'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['videoapprest.azurewebsites.net']
+ALLOWED_HOSTS = ['videoapprest-b5bybgb6d8d6hnem.eastus-01.azurewebsites.net']
 
 
 # Application definition
